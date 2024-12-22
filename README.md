@@ -16,13 +16,13 @@ The Rape Violation Data Dashboard is an interactive tool designed to visualize r
   - Pie chart for offender types in a specific year.
 
 ## Technology Stack
-- **Python**:
+###**Python**:
 - Programming language used for data processing and visualization.
-- **Pandas**:
+### **Pandas**:
 - Library for data manipulation and analysis.
-- **Streamlit**:
+### **Streamlit**:
 - Framework for creating the interactive dashboard.
-- **Matplotlib and Seaborn**:
+### **Matplotlib and Seaborn**:
 - Libraries for data visualization.
 
 ## Setup and Installation
